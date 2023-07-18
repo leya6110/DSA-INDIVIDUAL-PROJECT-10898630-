@@ -1,0 +1,24 @@
+ID,Item,Qty,Category,Range,Price
+2,Orange,10,Fruits,Low,100
+3,Mango,50,Fruits,Low,100
+4,Toblerone,500,Chocolates,High,100
+5,Mars,100,Chocolates,Medium,100
+6,Almond,250,Dry Fruits,High,100
+7,Walnut,280,Dry Fruits,High,100
+8,Spinach,80,Vegetables,Medium,100
+9,Potato,60,Vegetables,Medium,100
+10,Spinach,40,Vegetables,Low,100
+11,Lassi,30,Dairy Products,Low,100
+12,Dahi,25,Dairy Products,Low,100
+13,Five Star,60,Chocolates,Low,200
+14,Snickers,600,Chocolates,High,200
+15,Bounty,150,Chocolates,Medium,200
+16,Banana,40,Fruits,Low,200
+17,Grapes,30,Fruits,Low,200
+18,Cashew,350,Dry Fruits,High,200
+19,Peanut,380,Dry Fruits,High,200
+20,Milk,25,Dairy Products,Low,200
+21,Ice Cream,200,Dairy Products,Medium,200
+22,Kale,90,Vegetables,Medium,200
+23,Beet root,70,Vegetables,Medium,200
+24,Cauliflower,35,Vegetables,Low,200
